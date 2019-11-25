@@ -1,6 +1,4 @@
 
-> todo: embed this in the console
-
 # Welcome to Inheritance
 
 Inheritance in programming languages is very similar to inheritance in the people world.  If one object inherits from another, that means it behaves an aweful lot like it's 'ancestor' without being identical. JS's approach to inheritance is called '_Protoypical Inheritance_'.
